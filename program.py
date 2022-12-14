@@ -1,1 +1,1 @@
-print('здарова, Либовски')
+print('hi, miller')
